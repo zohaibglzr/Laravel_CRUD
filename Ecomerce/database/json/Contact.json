@@ -1,0 +1,72 @@
+[
+    {
+        "eamil": "alice.johnson@example.com",
+        "phone": "123",
+        "address": "123 Elm Street",
+        "city": "New York",
+        "student_id": 1
+    },
+    {
+        "eamil": "bob.smith@example.com",
+        "phone": "345",
+        "address": "456 Oak Avenue",
+        "city": "Los Angeles",
+        "student_id": 2
+    },
+    {
+        "eamil": "catherine.brown@example.com",
+        "phone": "567",
+        "address": "789 Maple Lane",
+        "city": "Chicago",
+        "student_id": 3
+    },
+    {
+        "eamil": "david.wilson@example.com",
+        "phone": "678",
+        "address": "101 Pine Road",
+        "city": "Houston",
+        "student_id": 4
+    },
+    {
+        "eamil": "emily.davis@example.com",
+        "phone": "980",
+        "address": "202 Cedar Court",
+        "city": "Phoenix",
+        "student_id": 5
+    },
+    {
+        "eamil": "frank.thomas@example.com",
+        "phone": "544",
+        "address": "303 Birch Boulevard",
+        "city": "Philadelphia",
+        "student_id": 6
+    },
+    {
+        "eamil": "grace.lee@example.com",
+        "phone": "456",
+        "address": "404 Spruce Drive",
+        "city": "San Antonio",
+        "student_id": 7
+    },
+    {
+        "eamil": "henry.walker@example.com",
+        "phone": "345",
+        "address": "505 Walnut Way",
+        "city": "San Diego",
+        "student_id": 8
+    },
+    {
+        "eamil": "isabella.white@example.com",
+        "phone": "34",
+        "address": "606 Ash Circle",
+        "city": "Dallas",
+        "student_id": 9
+    },
+    {
+        "eamil": "jack.harris@example.com",
+        "phone": "45",
+        "address": "707 Cherry Street",
+        "city": "San Jose",
+        "student_id": 10
+    }
+]

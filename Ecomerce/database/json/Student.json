@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Alice Johnson",
+        "age": 20,
+        "gender": "Female"
+    },
+    {
+        "name": "Bob Smith",
+        "age": 22,
+        "gender": "Male"
+    },
+    {
+        "name": "Catherine Brown",
+        "age": 21,
+        "gender": "Female"
+    },
+    {
+        "name": "David Wilson",
+        "age": 23,
+        "gender": "Male"
+    },
+    {
+        "name": "Emily Davis",
+        "age": 19,
+        "gender": "Female"
+    },
+    {
+        "name": "Frank Thomas",
+        "age": 25,
+        "gender": "Male"
+    },
+    {
+        "name": "Grace Lee",
+        "age": 22,
+        "gender": "Female"
+    },
+    {
+        "name": "Henry Walker",
+        "age": 20,
+        "gender": "Male"
+    },
+    {
+        "name": "Isabella White",
+        "age": 21,
+        "gender": "Female"
+    },
+    {
+        "name": "Jack Harris",
+        "age": 24,
+        "gender": "Male"
+    }
+]
